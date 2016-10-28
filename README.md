@@ -1,6 +1,6 @@
-#Kiss the mushrooms and beat the countdown
+#help pocahontas be healthy
 
-![action](kiss.png)
+![action](./kisserin.png)
 
 # install ruby 2.2
 # open directory
