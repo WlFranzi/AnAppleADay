@@ -1,6 +1,6 @@
 #help pocahontas be healthy
 
-![action](./kisserin.png)
+![action](./media/kisserin.png)
 
 # install ruby 2.2
 # open directory
