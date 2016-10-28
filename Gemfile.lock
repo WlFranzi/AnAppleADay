@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    kiss (1.0.0)
+      gosu (~> 0.10.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gosu (0.10.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kiss!
+
+BUNDLED WITH
+   1.10.6

@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "window"
+
+window = Kiss::GameWindow.new
+window.show
